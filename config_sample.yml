@@ -1,0 +1,8 @@
+LISTEN_ON: ":5001"
+UFO_ADDRESS: "http://192.168.1.55/api?"
+UFO_RESET: "top_init&bottom_init&logo=000000|000000|000000|000000"
+CAMERA_POLLER_DOWN: "top_init&top=0|15|ff0000&top_morph=80"
+CAMERA_POLLER_UP: "top_init&top=0|15|00ff00&top_morph=80"
+
+# catIn white with blue whirl
+CAT_IN: "top_init&top=0|1|0000ff&top_bg=ffffff&top_whirl=240|ccw"

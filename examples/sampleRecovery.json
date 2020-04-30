@@ -1,0 +1,13 @@
+{
+  "dashboardId": 2,
+  "evalMatches": [],
+  "message": "Camera Poller is DOWN",
+  "orgId": 1,
+  "panelId": 6,
+  "ruleId": 1,
+  "ruleName": "Camera Poller Up alert",
+  "ruleUrl": "http://localhost:3000/d/cOL-l23Wz/camera-poller-litterbox-users?fullscreen&edit&tab=alert&panelId=6&orgId=1",
+  "state": "ok",
+  "tags": {},
+  "title": "[OK] Camera Poller Up alert"
+}
